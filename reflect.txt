@@ -1,0 +1,33 @@
+----------------------------------------------
+Name:           Dhara Moghariya
+Student Number: 161449194
+Email:          dmoghariya@myseneca.ca 
+Section:        NAA
+Date:		December 2, 2020
+----------------------------------------------
+Final Project
+Reflection
+---------------------------------------------- 
+
+In this project, I have learned to integrate various modules to create an application with multiple features. 
+Overall, I was able to review and implement most of the concepts that I learned in OOP244 class. Interface, 
+abstract class and inheritance implementation was the most integral part of this project and it helped me 
+improve my understanding of the concepts and provided with practical exposure. The most difficult part of 
+the project was working with input, output and file io functions. Getting io functions right required a lot 
+of debugging partly because the output of these functions had to match exactly to the output. Lastly, the project 
+also included one template function. Copying and implementing this code helped me learn additional things 
+about templates. For example, template functions should be written into header files and they cannot be 
+separated into header and cpp files. In general, this project was a good practical example of getting oneself 
+familiar with object-oriented concepts. 
+
+In OOP244, my experience as great and I really learned a lot about advance C++ concepts that have improved 
+my programming. Before the class, I had briefly read OOP concepts from the internet and the idea was extremely 
+confusing, but after taking the course I was able to enhance my learning and expand my knowledge. I really liked 
+the workshop and quizzes provided during the course. Examples in the GitHub repository is also improved the 
+learning experience. 
+
+I do not have a strong suggestion to improve the course structure. But if I had to improve one thing about the 
+course, I would reduce the amount of IO workshops. I believe that there were more than 2 workshops that focused 
+on the concept and I am not sure if the industry follows a similar pattern. I would rather have liked one 
+database-oriented lab in the course. But apart from that, I would say that there is nothing that can be improved 
+in the overall course structure. 
